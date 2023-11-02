@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "31679785490",
+    "project_id": "individual-project-13f88",
+    "storage_bucket": "individual-project-13f88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31679785490:android:4a8d7b7ab114de34a286cb",
+        "android_client_info": {
+          "package_name": "com.example.flowersshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31679785490-h9dt31snolhu2h1e0163qcklrq3dn1nn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flowersshop",
+            "certificate_hash": "0608d8d2566b9ee1d9b1c0e3258309ad46de4670"
+          }
+        },
+        {
+          "client_id": "31679785490-i2regkmobtor5rlln0lpnrhl17janjup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_CnAVQo9gCuczgIqu6pT5lt96tHwXEhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31679785490-i2regkmobtor5rlln0lpnrhl17janjup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31679785490:android:5a33da3368a8a3cba286cb",
+        "android_client_info": {
+          "package_name": "com.example.kleine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31679785490-i2regkmobtor5rlln0lpnrhl17janjup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_CnAVQo9gCuczgIqu6pT5lt96tHwXEhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31679785490-i2regkmobtor5rlln0lpnrhl17janjup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31679785490:android:dfe132cedd0a623ba286cb",
+        "android_client_info": {
+          "package_name": "uz.xushnudbek.contactappfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31679785490-i2regkmobtor5rlln0lpnrhl17janjup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_CnAVQo9gCuczgIqu6pT5lt96tHwXEhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31679785490-i2regkmobtor5rlln0lpnrhl17janjup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
