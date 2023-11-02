@@ -64,6 +64,7 @@ class MainViewModelImpl @Inject constructor(
                     direction.openEditScreen(intent.data)
                 }
             }
+            //123
 
             is MainContract.Intent.ClickDelete -> {
                 reduce { this.copy(loader = true) }
